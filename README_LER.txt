@@ -1,0 +1,2 @@
+O projeto do videojogo consistiu em criar uma expansão inteira(DLC) para o mesmo.
+O website em si foi uma maneira de "dar uns toques" nas minhas skills em HTML,CSS,JS. E, uma boa forma de publicitar o meu projecto.
