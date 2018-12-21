@@ -167,7 +167,7 @@ nav{
 
 .servicesProjects{
     min-height: 80vh;
-    background: url(/images/OOM/3.jpg)center/cover fixed no-repeat;
+    background: url(images/OOM/3.jpg)center/cover fixed no-repeat;
     display: flex;
     align-items: center;
 }
